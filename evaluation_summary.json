@@ -1,0 +1,38 @@
+{
+  "selected_model": "Random Forest",
+  "training_levels": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "critical_rule_level": 5,
+  "training_rows_levels_1_to_4": 296,
+  "fixed_test_rows_levels_1_to_4": 76,
+  "fixed_test_rows_all_levels": 78,
+  "level5_examples_total": 5,
+  "level5_rule_recall_observed": 1.0,
+  "levels_1_to_4_test_metrics": {
+    "accuracy": 0.7105263157894737,
+    "balanced_accuracy": 0.6764705882352942,
+    "macro_f1": 0.6720812447786133,
+    "weighted_f1": 0.6972109550191267,
+    "log_loss": 0.7438667593533927,
+    "macro_roc_auc": 0.9136214049602437
+  },
+  "levels_1_to_4_ordinal_metrics": {
+    "mean_absolute_level_error": 0.35526315789473684,
+    "within_one_level_accuracy": 0.9342105263157895,
+    "exact_level_accuracy": 0.7105263157894737
+  },
+  "hybrid_five_level_test_metrics": {
+    "five_level_accuracy": 0.717948717948718,
+    "five_level_balanced_accuracy": 0.7411764705882353,
+    "five_level_macro_f1": 0.7376649958228907,
+    "five_level_weighted_f1": 0.704974776685303,
+    "mean_absolute_level_error": 0.34615384615384615,
+    "within_one_level_accuracy": 0.9358974358974359
+  },
+  "probability_note": "Levels 1–4 use calibrated model probabilities. Level 5 uses a rule-based critical score.",
+  "clinical_note": "The model is weakly supervised using provisional rule-generated ECG screening labels and requires clinical validation."
+}

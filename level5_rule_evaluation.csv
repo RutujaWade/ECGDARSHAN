@@ -1,0 +1,6 @@
+source_file,primary_label,machine_findings_text,rule_detected,critical_reasons
+20260303-232853-4.pdf,Poor-quality Data(V6),Poor-quality Data(V6) | Asystole,True,Asystole
+20260404-073643-43.pdf,Asystole,Asystole,True,Asystole
+20260404-073718-43.pdf,Asystole,Asystole,True,Asystole
+20260311-165755-17.pdf,Asystole,Asystole,True,Asystole
+20260329-023103-18.pdf,Asystole,Asystole,True,Asystole
