@@ -1,0 +1,26 @@
+{
+  "source_file": "report1.pdf",
+  "ecg_parameters": {
+    "heart_rate_bpm": 87.0,
+    "p_duration_ms": 112.0,
+    "pr_interval_ms": 160.0,
+    "qrs_duration_ms": 87.0,
+    "qt_interval_ms": 372.0,
+    "qtc_bazett_ms": 448.0,
+    "p_axis_deg": 69.0,
+    "qrs_axis_deg": 40.0,
+    "t_axis_deg": 78.0,
+    "rv5_mv": 2.572,
+    "sv1_mv": 0.756,
+    "rhythm": "Sinus Rhythm",
+    "machine_findings": [
+      "High Voltage(Left Ventricle)",
+      "T Wave Abnormality(I,aVL,V5,V6)"
+    ],
+    "paper_speed_mm_s": 25.0,
+    "gain_mm_mv": 10.0,
+    "report_datetime": "03-03-2026 12:52:04 PM",
+    "extraction_method": "embedded_pdf_text"
+  },
+  "validation_warnings": []
+}

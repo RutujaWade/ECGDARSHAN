@@ -1,0 +1,2 @@
+heart_rate_bpm,p_duration_ms,pr_interval_ms,qrs_duration_ms,qt_interval_ms,qtc_bazett_ms,p_axis_deg,qrs_axis_deg,t_axis_deg,rv5_mv,sv1_mv,rhythm,machine_findings,paper_speed_mm_s,gain_mm_mv,report_datetime,extraction_method,source_file,validation_warnings
+87.0,112.0,160.0,87.0,372.0,448.0,69.0,40.0,78.0,2.572,0.756,Sinus Rhythm,"High Voltage(Left Ventricle) | T Wave Abnormality(I,aVL,V5,V6)",25.0,10.0,03-03-2026 12:52:04 PM,embedded_pdf_text,report1.pdf,
